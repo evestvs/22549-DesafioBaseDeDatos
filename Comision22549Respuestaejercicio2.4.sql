@@ -1,0 +1,1 @@
+SELECT * FROM dni_nombres_apellidos WHERE dni_nombres_apellidos.Apellidos='Lopez' OR dni_nombres_apellidos.Apellidos='Perez'

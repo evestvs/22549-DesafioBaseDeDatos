@@ -1,0 +1,2 @@
+DELETE FROM presupuestos_copy_2
+WHERE presupuestos_copy_2.Id_Numeros_Departamentos=14;

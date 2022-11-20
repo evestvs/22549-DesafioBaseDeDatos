@@ -1,0 +1,3 @@
+SELECT dni_nombres_apellidos.Id_Dni,dni_nombres_apellidos.Nombres,dni_nombres_apellidos.Apellidos
+FROM dni_nombres_apellidos
+INNER JOIN presupuestos ON (dni_nonumeros_departamentnumeros_departamentososmbres_apellidos.Id_Dni=presupuestos.Id_Dni) AND  (presupuestos.ImporteAsignado>60000.00)

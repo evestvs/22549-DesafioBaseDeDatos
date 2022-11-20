@@ -1,0 +1,1 @@
+UPDATE presupuestos_copy SET presupuestos_copy.ImporteAsignado = (presupuestos_copy.ImporteAsignado*0.90);

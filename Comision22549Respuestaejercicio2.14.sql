@@ -1,0 +1,2 @@
+UPDATE presupuestos_copy_1 SET presupuestos_copy_1.Id_Numeros_Departamentos=14
+WHERE presupuestos_copy_1.Id_Numeros_Departamentos=77
